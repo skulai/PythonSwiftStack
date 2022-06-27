@@ -30,7 +30,7 @@ pyserial==2.6
 pysmbc==1.0.14.1
 python-swiftclient==3.0.0
 pyxdg==0.25
-reportlab==3.0
+reportlab==3.5.55
 requests==2.2.1
 SecretStorage==2.0.0
 sessioninstaller==0.0.0
